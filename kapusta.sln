@@ -1,9 +1,8 @@
-﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.14.36221.1 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3ISIP423_Zhalyuk_Kalacev", "3ISIP423_Zhalyuk_Kalacev\3ISIP423_Zhalyuk_Kalacev.csproj", "{AAD74C1F-B08C-4E7E-A87A-91C5A3674CAC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ISIP_423_Kapusta", "ISIP_423_Kapusta\kapusta.csproj", "{AAD74C1F-B08C-4E7E-A87A-91C5A3674CAC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
